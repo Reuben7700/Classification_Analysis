@@ -4,3 +4,5 @@ and is close to the Gulf of Guinea, Located in the Southern part of the tropical
 two sentinel two images were downloaded from the years 2018 and 2024 respectively 
 and were used for the Random Forest classification and Land Cover Change Detection Analysis.
 K-means unsupervised classification was used for the classification.
+
+Please leave a comment or suggestion. 
